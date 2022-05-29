@@ -1,2 +1,2 @@
-# DIGITECH
+# Digitech
 Sistema de gerenciamento de vendas.
